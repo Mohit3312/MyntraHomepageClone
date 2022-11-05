@@ -1,0 +1,33 @@
+nav div {
+  flex-direction: column;
+}
+
+nav div ul {
+  flex-wrap: wrap;
+}
+
+nav ul li {
+  padding: 12px 15px;
+  font-size: 0.7rem;
+}
+
+.search {
+  width: 75vw;
+  padding: 3px 17px;
+}
+
+.left img {
+  width: 95px;
+}
+
+.right div {
+  flex-direction: row;
+}
+
+.right div div {
+  margin: 0;
+}
+
+footer {
+    font-size: 0.7rem;
+}
