@@ -28,6 +28,10 @@ nav ul li {
   margin: 0;
 }
 
+.itemImg {
+  width: 41vw;
+}
+
 footer {
-    font-size: 0.7rem;
+  font-size: 0.7rem;
 }

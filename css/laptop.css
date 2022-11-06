@@ -1,6 +1,6 @@
 .search {
-    width: 55vw;
-    margin: 7px;
+  width: 55vw;
+  margin: 7px;
 }
 
 nav ul li {
@@ -8,5 +8,9 @@ nav ul li {
 }
 
 .right div {
-    margin: 9px 20px;
+  margin: 9px 20px;
+}
+
+.itemImg {
+  width: 20vw;
 }

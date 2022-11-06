@@ -11,3 +11,7 @@ nav {
   display: flex;
   margin: 9px;
 }
+
+.itemImg {
+  width: 21vw;
+}
