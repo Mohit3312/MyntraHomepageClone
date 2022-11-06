@@ -25,6 +25,18 @@ nav {
   width: 135px;
 }
 
+.navBtn {
+  cursor: pointer;
+  border: none;
+  background: none;
+}
+
+.sectionBtn {
+  cursor: pointer;
+  border: none;
+  background: none;
+}
+
 .container {
   padding: 14px 2vw 6px 2vw;
 }
