@@ -1,3 +1,11 @@
+.container {
+  padding: 14px 2vw 6px 2vw;
+}
+
+nav {
+  flex-direction: column;
+}
+
 nav div {
   flex-direction: column;
 }
@@ -22,6 +30,7 @@ nav ul li {
 
 .right div {
   flex-direction: row;
+  margin: 10px 0;
 }
 
 .right div div {

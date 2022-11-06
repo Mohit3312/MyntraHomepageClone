@@ -1,16 +1,32 @@
+.container {
+  padding: 14px 2vw 6px 2vw;
+}
+
+nav {
+  flex-direction: column;
+}
+
 nav ul li {
   list-style: none;
-  padding: 3px 7px;
+  padding: 3px 9px;
   font-size: 0.7rem;
 }
 
+.left {
+  justify-content: center;
+}
+
 .left img {
-  width: 120px;
+  width: 105px;
 }
 
 .search {
-  width: 70vw;
+  width: 47vw;
   margin: 10px 0;
+}
+
+.right {
+  flex-direction: column;
 }
 
 .right div div {

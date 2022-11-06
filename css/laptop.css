@@ -1,3 +1,11 @@
+.container {
+  padding: 14px 2vw 6px 2vw;
+}
+
+nav {
+  flex-direction: column;
+}
+
 .search {
   width: 55vw;
   margin: 7px;
